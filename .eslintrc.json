@@ -1,9 +1,5 @@
 {
     "extends": ["next/core-web-vitals", "prettier"],
-    "plugins": ["prettier", "react-hooks"],
-    "parserOptions": {
-      "requireConfigFile": false
-    },
     "env": {
       "browser": true,
       "node": true
